@@ -29,6 +29,10 @@ Watch the TwinShare app demo on YouTube:
 Watch the TwinShare demonstration on YouTube to see Nearby Wi-Fi and Hotspot Wi-Fi transfer in acti
 on.
 
+## 📥 Download
+
+[⬇️ Download TwinShare 1.2](https://github.com/PremCreationApps/TwinShare/releases/download/v1.2/TwinShare.1.2.apk)
+
 🌐 Official Website
 
 Visit the Prem Creation app website for app information and download options:
