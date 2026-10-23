@@ -20,6 +20,70 @@ TwinShare is an Android file-sharing app by Prem Creation, designed to make tran
 5. Start the transfer and wait for completion.
 6. Open the received files on the destination device.
 
+<!-- TwinShare App Demo Video -->
+<section class="demo-video">
+  <h2>🎬 TwinShare App Demo</h2>
+  <p>
+    Watch how TwinShare transfers files using Nearby Wi-Fi
+    and Hotspot Wi-Fi.
+  </p>
+
+  <div class="video-container">
+    <iframe
+      src="https://www.youtube.com/embed/iARoxjC8Y3E"
+      title="TwinShare App Demo - Prem Creation"
+      loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen>
+    </iframe>
+  </div>
+</section>
+
+<style>
+.demo-video {
+  max-width: 850px;
+  margin: 25px auto;
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #222;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  box-sizing: border-box;
+}
+
+.demo-video h2 {
+  margin: 0 0 12px;
+  font-size: 24px;
+}
+
+.demo-video p {
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-radius: 10px;
+  background: #000;
+}
+
+.video-container iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+</
+  style>  
+
 🎬 Demo Video
 
 Watch the TwinShare app demo on YouTube:
@@ -32,6 +96,7 @@ on.
 ## 📥 Download
 
 [⬇️ Download TwinShare 1.2](https://github.com/PremCreationApps/TwinShare/releases/download/v1.2/TwinShare.1.2.apk)
+
 
 🌐 Official Website
 
