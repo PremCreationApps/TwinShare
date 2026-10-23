@@ -20,7 +20,7 @@ TwinShare is an Android file-sharing app by Prem Creation, designed to make tran
 5. Start the transfer and wait for completion.
 6. Open the received files on the destination device.
 
-## 🎬 TwinShare – Video Demo
+## 🎬 Demo Video - TwinShare 
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=K1b0F41bsS8">
@@ -42,20 +42,9 @@ TwinShare is an Android file-sharing app by Prem Creation, designed to make tran
 https://prem-creation-apps-store.blogspot.
 com/
 
-
-🎬 Demo Video
-
-Watch the TwinShare app demo on YouTube:
-
-▶️ "Watch TwinShare Demo" (https://youtu.be/iARoxjC8Y3E)
-
-Watch the TwinShare demonstration on YouTube to see Nearby Wi-Fi and Hotspot Wi-Fi transfer in acti
-on.
-
 ## 📥 Download
 
 [⬇️ Download TwinShare 1.2](https://github.com/PremCreationApps/TwinShare/releases/download/v1.2/TwinShare.1.2.apk)
-
 
 🌐 Official Website
 
