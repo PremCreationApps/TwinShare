@@ -43,8 +43,7 @@ TwinShare is an Android file-sharing app by Prem Creation, designed to make tran
 </p>
 
 🌐 **Visit our website:**  
-https://prem-creation-apps-store.blogspot.
-com/
+https://prem-creation-apps-store.blogspot.com
 
 ## 📥 Download
 
