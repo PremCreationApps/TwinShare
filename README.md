@@ -13,6 +13,8 @@ TwinShare is an Android file-sharing app by Prem Creation, designed to make tran
 - 📊 Transfer Progress – Monitor file transfers.
 - 📱 Simple Interface – Easy-to-use sending and receiving screens.
 
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJXz_QuWGQk7zh7fjf6Wqezh_eyXBz617quY6LixAh07aoiv4Mf057uPv3-7EoFdH6GDjqwWHDN8fpcJxFUxFrLa4vlG0Pysp7Ci8Ybaxvwkr85NAWoRpQ8IBozRNyWI5c1ePdhLiLAm0D-QvMeQ1Hp_wsCX3Zd3gGEb-qYajv0zj2nSi5D93_kMdY7nY/s765/logo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="611" data-original-width="765" height="160" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJXz_QuWGQk7zh7fjf6Wqezh_eyXBz617quY6LixAh07aoiv4Mf057uPv3-7EoFdH6GDjqwWHDN8fpcJxFUxFrLa4vlG0Pysp7Ci8Ybaxvwkr85NAWoRpQ8IBozRNyWI5c1ePdhLiLAm0D-QvMeQ1Hp_wsCX3Zd3gGEb-qYajv0zj2nSi5D93_kMdY7nY/w200-h160/logo.png" width="200" /></a></div><br /><p></p>
+
 📲 How to Use
 
 1. Install and open TwinShare on the devices.
