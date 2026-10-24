@@ -56,10 +56,6 @@ Visit the Prem Creation app website for app information and download options:
 
 https://premcreationapps.github.io/Prem-Creation
 
-https://prem-creation.blogspot.com
-
-https://prem-creation-3e151.web.app
-
 🔐 Privacy
 
 https://prem-creation-apps-store.blogspot.com/p/hifyshare-privacy-policy.html
@@ -70,7 +66,7 @@ Prem Creation: https://prem-creation-apps-store.blogspot.com
 
 Independent Android Developer
 
-Website: https://premcreationapps.github.io/Prem-Creation
+Website: https://premcreationapps.github.io
 
 📝 Note
 
