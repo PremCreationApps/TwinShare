@@ -47,7 +47,7 @@ https://premcreationapps.github.io/Prem-Creation
 
 ## 📥 Download
 
-[⬇️ Download TwinShare 1.2](https://github.com/PremCreationApps/TwinShare/releases/download/v1.3/TwinShare.1.3.apk)
+[⬇️ Download TwinShare 1.3](https://github.com/PremCreationApps/TwinShare/releases/download/v1.3/TwinShare.1.3.apk)
 
 🌐 Official Website
 
